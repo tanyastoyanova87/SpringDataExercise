@@ -1,4 +1,4 @@
-package bg.softuni.springdataexercise;
+package bg.softuni.P01BookShop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,4 @@ public class SpringDataExerciseApplication {
     public static void main(String[] args) {
         SpringApplication.run(SpringDataExerciseApplication.class, args);
     }
-
 }
